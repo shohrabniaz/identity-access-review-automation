@@ -1,0 +1,6 @@
+upn,last_sign_in_days,roles,department
+alice@lab,3,Finance.Read,Finance
+bob@lab,95,Finance.Read;Finance.Pay,Finance
+carol@lab,12,Finance.Pay;Audit.Approve,Finance
+dave@lab,200,Admin.Global,IT
+erin@lab,5,HR.Read,HR
